@@ -1,0 +1,21 @@
+{
+  "name": "slidev-demo",
+  "private": true,
+  "scripts": {
+    "build": "slidev build",
+    "dev": "slidev --open",
+    "export": "slidev export"
+  },
+  "dependencies": {
+    "@slidev/cli": "^0.40.6",
+    "@slidev/theme-default": "*",
+    "@slidev/theme-seriph": "*",
+    "ant-design-vue": "^3.2.20"
+  },
+  "devDependencies": {
+    "@iconify-json/el": "^1.1.4",
+    "@iconify-json/ic": "^1.1.13",
+    "@vicons/ionicons5": "^0.12.0",
+    "naive-ui": "^2.34.3"
+  }
+}
